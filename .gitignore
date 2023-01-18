@@ -1,0 +1,12 @@
+*.log
+*~
+*#
+*.gcda
+*.gcno
+*.gcov
+*.o
+*.a
+*.out
+test*
+.vscode
+project
